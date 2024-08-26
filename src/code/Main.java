@@ -12,9 +12,9 @@ public class Main {
         //   streamApi();
         //denormalizeFamily();
         // dateTimeDemo();
-        ErrorCode errorCode = ErrorCode.INVALID_INPUT;
-        System.out.println("Error " + errorCode.name());
-        System.out.println("Error " + errorCode.getCode() + " " + errorCode.getMessage());
+        //ErrorCode errorCode = ErrorCode.INVALID_INPUT;
+        //System.out.println("Error " + errorCode.name());
+        //System.out.println("Error " + errorCode.getCode() + " " + errorCode.getMessage());
     }
 
     private static void dateTimeDemo() {

@@ -1,0 +1,114 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Eclipse project files
+.project
+.classpath
+.settings/
+.metadata/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.iws
+
+# NetBeans project files
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/nbactions.xml
+/nb-configuration.xml
+
+# VS Code project files
+.vscode/
+
+# Maven and Gradle directories
+target/
+out/
+build/
+.mvn/
+.mvnw
+.mvnw.cmd
+
+# Local environment files
+.env
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~.nib
+*~.bak
+*.orig
+*.rej
+~$*
+
+# Spring Boot specific files
+### If you have uploaded secret keys or environment-specific properties, you can ignore:
+### application.properties, application.yml, or even .env files if you are not using environment variables for configuration
+### Make sure to keep a separate backup or use environment variables
+### application.properties
+### application.yml
+
+# Spring Boot devtools
+.spring-boot-devtools.properties
+
+# Logs
+logs/
+*.log
+*log.*
+/log/*
+
+# Database files
+*.h2.db
+*.mv.db
+*.db
+
+# OS-specific swap files and temporary files
+*.swp
+*.swo
+.*.swp
+.swo
+.swn
+
+# Node.js specific files if Node is part of your project
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Generated files by IDE or other tools
+*.bak
+*.tmp
+
+# Generated binary files
+*.class
+*.jar
+*.war
+*.ear
+
+#html reports
+htmlReport/
